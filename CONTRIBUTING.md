@@ -47,3 +47,11 @@ Stick to the stack. Don’t introduce unnecessary frameworks.
 ### 1. Fork the Repository
 ```bash
 git fork https://github.com/santanu-atta03/intervyo.git
+
+⚠️ ECWoC 2026 RULES
+
+1. Only Pull Requests with the label `ECWoC26` will be considered for scoring.
+2. PRs without the label will not be reviewed for ECWoC points.
+3. Spam, low-effort, or documentation-only PRs may be closed without review.
+4. One meaningful PR per contributor at a time.
+
